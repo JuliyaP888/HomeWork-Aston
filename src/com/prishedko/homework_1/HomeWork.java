@@ -1,3 +1,5 @@
+package com.prishedko.homework_1;
+
 import java.util.Arrays;
 import java.util.stream.IntStream;
 
